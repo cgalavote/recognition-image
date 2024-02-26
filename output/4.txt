@@ -1,0 +1,19 @@
+
+A cat licking its paw
+
+JSON
+
+{
+  "apim-request-id": "3f2739b4-0e5c-4179-805f-13904444dc08",
+  "content-length": "150",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a cat licking its paw",
+    "confidence": 0.8279274106025696
+  },
+  "metadata": {
+    "width": 3024,
+    "height": 4032
+  }
+}

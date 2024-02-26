@@ -1,0 +1,18 @@
+A lake with snow and mountains in the background
+
+JSON
+
+{
+  "apim-request-id": "4f954256-ce4a-4448-8ddd-0605eb066aea",
+  "content-length": "176",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a lake with snow and mountains in the background",
+    "confidence": 0.704258918762207
+  },
+  "metadata": {
+    "width": 4093,
+    "height": 6139
+  }
+}

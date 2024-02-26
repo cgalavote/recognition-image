@@ -1,0 +1,19 @@
+
+A person holding a surfboard on a beach
+
+JSON
+
+{
+  "apim-request-id": "ed32aebf-af40-4c22-b314-6311ba244656",
+  "content-length": "168",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a person holding a surfboard on a beach",
+    "confidence": 0.8143263459205627
+  },
+  "metadata": {
+    "width": 4000,
+    "height": 6000
+  }
+}

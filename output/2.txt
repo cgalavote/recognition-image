@@ -1,0 +1,18 @@
+A boy sitting on a bench reading a newspaper
+
+JSON
+
+{
+  "apim-request-id": "aa55204f-d390-41cb-8b35-d3132f6035bb",
+  "content-length": "173",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a boy sitting on a bench reading a newspaper",
+    "confidence": 0.8135997653007507
+  },
+  "metadata": {
+    "width": 6192,
+    "height": 4128
+  }
+}
